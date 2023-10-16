@@ -1,5 +1,5 @@
 # Predict activity quality from activity monitors
-Guneete Bhatia
+Guneete Bhatia  
 16. October 2023
 
 ##Synopsis
